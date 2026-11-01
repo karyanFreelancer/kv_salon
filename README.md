@@ -135,20 +135,7 @@ Open `config.php` and update your MySQL credentials.
 http://localhost/velora_salon_software/
 ```
 
-## 🔐 Demo Admin Login
-
-For local demonstration only:
-
-| Field | Value |
-|---|---|
-| Email | admin@velora.local |
-| Password | admin123 |
-
-**Security Notice:** Change the default admin password before deploying the application publicly. Use a strong password and secure database credentials.
-
-## 🎯 Main Purpose
-
-The purpose of this project is to digitize salon operations and make appointment booking easier for both customers and salon administrators.
+he purpose of this project is to digitize salon operations and make appointment booking easier for both customers and salon administrators.
 
 The platform helps manage:
 - Customer information
